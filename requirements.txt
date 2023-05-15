@@ -1,2 +1,2 @@
 streamlit-option-menu
-pickle
+pickle5
